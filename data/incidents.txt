@@ -1,0 +1,4 @@
+1|Flood Emergency|Flood in village near river|Guntur|High
+2|Fire Emergency|Fire reported in a building|Vijayawada|High
+3|Medical Emergency|Injured people need medical help|Tenali|Medium
+4|Earthquake Alert|Buildings damaged after earthquake|Amaravati|High
